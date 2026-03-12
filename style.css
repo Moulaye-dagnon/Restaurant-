@@ -254,7 +254,7 @@ img{
 }
 .reservation{
     background: linear-gradient(180deg, rgba(0, 0, 0, 0.92) , rgba(54, 54, 54, 0.50) 39.24%, rgba(28, 28, 28, 0.40)),
-    url("/img/reservation.jpg") center center/ cover  no-repeat;
+    url("img/reservation.jpg") center center/ cover  no-repeat;
     
 }
 .reservation p{
